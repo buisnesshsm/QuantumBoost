@@ -12,7 +12,7 @@ const originalSetPurchaseMessage = purchaseMessage => {
 
 
     window.$crisp = [];
-    window.CRISP_WEBSITE_ID = "your-crisp-website-id";
+    window.CRISP_WEBSITE_ID = "af0f214a-fb89-48a7-9f75-945a0280d3e8";
     (function () {
       var d = document;
       var s = d.createElement("script");
